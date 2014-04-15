@@ -1,0 +1,47 @@
+
+
+body {
+	background: url('images/sf.jpg') no-repeat;
+	background-size: 100% auto;
+	max-width: 1000px;
+}
+
+img {
+	width: 250px;
+	height: auto;
+}
+
+#me {
+	display: inline-block;
+	color: white;
+	font-size: 24px;
+	float: left;
+}
+
+#mail, #linkedin {
+	height: 50px;
+	width: 50px;
+}
+
+
+.content {
+	background: rgba(255,255,255, 0.5);
+	float: right;
+	padding-left: 20px;
+	height: 100%;
+	width: 60%;
+	font-style: sans-serif;
+	position: relative;
+}
+
+#Avid {
+	height: 50px;
+	width: 200px;
+
+}
+
+a img {
+	display: inline-block;
+	float: left;
+}
+
